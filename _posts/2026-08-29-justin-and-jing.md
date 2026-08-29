@@ -1,5 +1,5 @@
 ---
-title: "justin-and-jing"
+title: "justin and jing"
 date: 2026-08-29
 ---
 创建文章序言满足两个条件
